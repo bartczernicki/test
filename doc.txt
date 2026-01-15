@@ -1,0 +1,287 @@
+
+
+Release 1.0.0
+ManufacturerArcadyan Technology Corporation 
+No.8, Sec.2, Guangfu Rd.,Hsinchu City 30071, TaiwanImport fromArcadyan Technology CorporationDistributor	T-Mobile, Inc.
+ 
+?T-Mobile USA, Inc. All rights reserved.
+T-Mobile, the T logo, Magenta, the magenta color and the T-Mobile Internet logo are registered trademarks of Deutsche Telekom AG.
+
+Contents
+Safety Guidelines ..............................................................................................................................5
+Potential Equipment Damage  ...................................................................................................5
+Risk of Electric Shock or Fire  .....................................................................................................5
+Introduction .......................................................................................................................................6
+Getting to Know Your T-Mobile 5G Gateway ...............................................................................6
+Physical Interfaces.......................................................................................................................7
+Setting up the T-Mobile 5G Gateway ............................................................................................7
+Recommended Setup: Use the Mobile App.............................................................................7
+Manual Setup: Identify An Ideal Location ............................................................................... 8
+Connecting Power to the T-Mobile 5G Gateway ............................................................... 8
+Starting the T-Mobile 5G Gateway .......................................................................................9
+Connecting Devices .........................................................................................................................9
+Connecting Wi-Fi Devices ..........................................................................................................9
+Connecting Ethernet Devices ....................................................................................................9
+Viewing Connected Devices ....................................................................................................10
+Accessing Your Web GUI (Graphical User Interface) ................................................................10
+Home Screen .............................................................................................................................. 11 Language Selection ..............................................................................................................12
+Wi-Fi Networks Screen .........................................................................................................12
+Replacing the SIM Card .................................................................................................................17 Resetting the T-Mobile 5G Gateway ..................................................................................18
+
+Troubleshooting ..............................................................................................................................19
+No Signal ......................................................................................................................................19
+Prevent Overheating ..................................................................................................................19
+T-Mobile 5G Gateway Does Not Start ....................................................................................19
+Poor Internet Experience ..........................................................................................................19
+Forget Your Admin Password? .................................................................................................19
+Understanding the LCD .................................................................................................................19 Connection .................................................................................................................................20
+Devices........................................................................................................................................20 Messages .....................................................................................................................................21
+Language Settings .................................................................................................................... 23
+Technical Specifications ............................................................................................................... 24 Terms and Conditions ................................................................................................................... 25
+Privacy Policy ................................................................................................................................. 25
+Customer Support ......................................................................................................................... 25
+Safety Guidelines
+Potential Equipment Damage 
+Follow these recommendations to protect yourself and the Product from harm:  ? 	Use the Product only in upright position as shown in the Quick Start Guide ? 	Do not insert any sharp object into the openings of the Product ? 	Do not put the Product near a heat source ? 	Avoid placing the Product in direct sunlight ? 	Do not put the Product in damp or wet locations; for example, near a bathtub, washbowl, kitchen sink or laundry tub, in a wet basement, or near a swimming pool. Do not spill any liquid on the Product 
+? 	Do not touch the Product or its power adapter or cord with wet hands ? 	Do not place the Product on an unstable surface or support ? 	Do not place anything on top of the Product ? 	Do not use liquid or aerosol cleaners; unplug the Product and use a soft, dry cloth for cleaning ? 	 When connecting a PC or other electronic device to the Product, make sure you use the right cables and connect the device to the right port of the Product 
+? 	Incorrect connections may damage the device and/or the Product ? 	Do not open or try to open the Product ? 	Opening or removing covers can expose you to dangerous high voltage points or other risks ? 	Do not attempt to access, manipulate, insert foreign objects into, remanufacture,  or immerse or otherwise expose it to water 
+? 	Do apply care to avoid accidental drops along with the Product ? 	If the T-Mobile 5G Gateway is dropped?especially on a hard surface?or in the case of suspected damage, contact your nearest T-Mobile service center for inspection
+Risk of Electric Shock or Fire 
+Follow these guidelines when using the T-Mobile 5G Gateway: ? 	Connect the Product power adapter or cord to the right supply voltage (120V AC in USA) ? 	Pay attention to the power load of the electrical outlet and possible extension cord ? 	An overburdened power outlet or damaged cords and plugs may cause electric shock or fire ? 	Check the power cords regularly. If you find any damage, replace the cord immediately ? 	Do not connect the plug into an extension cord, receptacle, or other outlet unless the plug can be fully inserted with no part of the blades exposed 
+? Leave adequate space for heat dissipation to avoid any damage caused by overheating the Product 
+? 	Do not cover the Product or its ventilation holes. Blocking the ventilation holes may cause fire ? 	Use the power adapter provided with your Product and do not fasten the power cable to building surfaces 
+? 	Ensure the cable can move freely. Do not place heavy objects on the cable ? 	Do not use the Product outside, and make sure all the connections are indoors ? 	Do not install, use, or service this Product during a thunderstorm ? 	There is a remote risk of electric shock from lightning ? 	The standby power consumption of the Product is 4.5W
+Introduction
+This document explains how to operate the T-Mobile 5G Gateway at home using visual cues to achieve the best placement and performance.
+ 
+NOTE 
+This document is a supplement to the Quick Start Guide and T-Mobile Internet mobile app. Use the Quick Start Guide to get up and running quickly. 
+The contents of this guide are subject to change without notice.
+Getting to Know Your T-Mobile 5G Gateway
+You will find the following items in the box:
+? 	Gateway
+? 	Power adapter ? 	Quick Start Guide ? 	T-Mobile Terms and Conditions ? 	Safety and Regulatory Notice
+The gateway offers 4G/LTE or 5G/NR WAN mobile network connectivity by way of four wide band OMNI antennas that supports all LTE/5G bands. It functions as the connection point between the WAN outside your home and the LAN inside your home.
+Physical Interfaces
+The gateway?s physical interfaces include those shown in the diagram.
+
+Setting up the T-Mobile 5G Gateway
+Recommended Setup: Use the Mobile App
+Using the Quick Start Guide and the T-Mobile Internet mobile app provides the easiest setup experience. The T-Mobile Internet mobile app can be downloaded from either Google Play or the App Store.
+ 
+NOTE 
+The first time you access your gateway, the ?How to navigate this interface? displays on the LCD panel. Select ?OK? to continue the start up. 
+ 
+Download and install Mobile app using your smart phone, then the Mobile app establishes communication and connects to the gateway. 
+Manual Setup: Identify An Ideal Location
+You will start by identifying the ideal location for your gateway ? that location will meet the following criteria:
+? 	Near a window where the signal strength is strongest
+? 	In an open space away from:
+? Walls or obstructions
+? Heavy-duty appliances or electronics such as microwave ovens and baby monitors
+? Metal fixtures, enclosures, cabinets, reinforced concrete, or pipes
+? 	Near a power outlet
+? 	On an upper floor of the home or at least 6 feet off the floor
+Connecting Power to the T-Mobile 5G Gateway
+? 	Place the gateway on a flat surface, such as a tabletop or similar; close to a window and near an electrical outlet
+? 	Minimize the number of obstructions as much as possible
+? 	Connect the gateway?s USB Type-C power cable to its Power port, then plug the other end of the power cable into a grounded electrical outlet
+? 	The USB Type-C power cable must be capable of supporting 100?240V (volts) AC adapter, 50?60Hz frequency and 3A of current at DC 15V
+
+Starting the T-Mobile 5G Gateway
+After the gateway is connected to a power source, the LCD screen displays an animated T-Mobile logo that indicates the gateway is starting up.
+Four small dots displayed on the LCD panel indicates available screens. Take a moment to browse these screens to see what information is available. For more information about the LCD screen display, refer to the section ?Understanding the LCD? on page 19.
+The start up sequence is complete when the LCD shows:
+? 	Connection ? 	Devices ? 	Messages ? 	Language
+Connecting Devices
+Connecting Wi-Fi Devices
+Connect your wireless devices to your network using the Wi-Fi SSID (Wi-Fi name) and Wi-Fi Key  (Wi-Fi password), which are found on the gateway?s rear panel. Here is an example of the label:
+
+Connecting Ethernet Devices
+The gateway has two (2) Ethernet LAN ports. Use an Ethernet cable to connect devices that don?t have Wi-Fi adapters or capabilities. 
+Viewing Connected Devices
+The Devices LCD screen on the front of the gateway shows the number of devices currently connected to the network by way of either Wi-Fi or Ethernet.
+
+To view how many devices are connected:
+1. Observe the LCD Connection screen
+2. Press the right arrow on the LCD panel to display the Devices screen
+Accessing Your Web GUI (Graphical User Interface)
+ 
+NOTE 
+You can configure the gateway and any connected client devices via the T-Mobile Internet mobile app on a smartphone. 
+Ensure the Local Area Connection setting on your PC, laptop, smart phone, or tablet is configured to obtain an IP address automatically.
+On your device, open a web browser, and enter http://192.168.12.1
+ 
+NOTE 
+If you are unable to access the GUI at the above address, please contact customer support. 
+Home Screen
+You should now see the dashboard screen, which provides network connection status and information about the gateway.
+
+The Home screen contains five sections: internet connection status, connection quality of cellular signal strength, gateway information, Wi-Fi networks settings, and the QR code of T-Mobile Internet mobile app.
+? 	Connection status: shows network status of the connected devices, the gateway, and the cellular network connection ? 	Connection quality: cellular signal strength is represented by number of bars
+? 	Gateway information 
+? Firmware version: variable
+? UI version: variable
+? Running time: how long it has been since the gateway?s last reset/power-cycle
+? Serial number: variable
+? 	Wi-Fi networks settings: gives you a way to manage and configure wireless settings on the 2.4GHz and 5GHz networks
+? 	T-Mobile Internet mobile app: scanning the QR code with your smart phone for the easiest setup experience
+ 
+NOTE 
+The advanced settings are not available with this version release of the web GUI. 
+Language Selection
+From the GUI?s top-right corner of the screen, select your preferred language, English or Espa¤ol, from the dropdown menu for user interface language.
+
+
+Clicking Manage Wi-Fi Networks from the Wi-Fi networks menu gives you a way to manage and configure Wi-Fi settings on your networks. 
+
+The Wi-Fi Networks screen contains the following options:
+? 	Combined/Automatic (Recommended): provides the best Wi-Fi connection to the connected devices  with automatic selection of the radio frequency (2.4 GHz or 5 GHz).  Your T-Mobile mesh network has the single Wi-Fi network enabled by default and this is recommended for most users
+? 	Separate Networks: you also can configure the following SSID-specific settings for different types of Wi-Fi devices
+? 2.4 GHz radio frequency
+? 5 GHz radio frequency 
+Click Learn more to see detailed information about the use of appropriate frequency for the Wi-Fi devices on your network.
+
+To create a new Wi-Fi network:
+1. The 2.4GHz and 5GHz options become available by selecting Separate Networks 
+2. Configure the following Wi-Fi settings for the new network 
+Setting	Options
+Network NameEnter SSID (Service Set Identifier) name.PasswordEnter a Wi-Fi password. 
+You can click the eye icon to view the password. 
+NOTE 
+The gateway automatically steers client devices to the best band and channel combination for most situations. 
+
+3. Click Save Changes to save the settings
+
+4. Click OK to finish the Wi-Fi network configuration and the Home screen will be displayed
+
+Replacing the SIM Card
+The gateway comes with a pre-installed SIM card. You can replace the SIM card by pressing the card into the card slot. 
+Before replacing the SIM card, please read the following safety information.
+Danger 1: Hazardous electrical voltages and currents can cause serious physical harm or death. Always use insulated tools and follow proper safety precautions when connecting or disconnecting power circuits.
+Danger 2: Ensure the gateway?s power supply is unplugged from the power strip or wall outlet before proceeding.
+ Caution: Keep indoor devices out of direct sunlight. Prolonged exposure to direct sunlight can damage the device.
+Refer to the section ?Technical Specifications? for the gateway?s operating temperature ranges.
+Access the SIM card from the backside of the gateway. 
+1. Power off the gateway by removing the power cable from the gateway and from the electrical outlet
+2. Remove any Ethernet cables connected to the gateway?s LAN ports (LAN1 and LAN 2) 3. 	Use the finger pull to open the SIM door
+
+4. The SIM card socket supports push-in and push-out installation 
+5. With the SIM door open, press the pre-installed SIM card into the slot and the SIM card pops out
+6. Carefully remove the pre-installed SIM card 
+7. Insert and press the new SIM card into the slot
+
+8. Be sure the SIM card clicks into place to ensure that it is properly installed
+9. Close the cover of the SIM card slot and ensure the cover is securely closed on the SIM door
+Resetting the T-Mobile 5G Gateway
+Resetting the T-Mobile 5G Gateway to factory default deletes all configuration changes made since setup.
+Using the Reset Port
+You can reset the gateway using a paperclip and the Reset port, which is located on the device?s backside.
+1. Press-and-hold a paperclip in the Reset port for 5 seconds
+
+2. Withdraw the paperclip. LCD shows:
+? Factory reset in progress
+? T-Mobile animated logo
+? Power up animation
+3. On the LCD, press OK on the LCD panel and you will see the Connection screen
+Troubleshooting
+No Signal
+This LCD alert indicates there is no network signal, which could mean local cellular equipment is down for any number of reasons, or the gateway may need to be re- positioned.
+If the connection does not improve in a reasonable amount of time, you can contact T- Mobile customer service or refer to the section ?Manual Setup: Identify An Ideal Location?.
+Prevent Overheating
+Make sure that obstacles never obstruct airflow vents on the top or bottom of the gateway?s enclosure. Allow at least 100mm/4in clearance on all sides of the enclosure. Ensure the gateway is at least 3 feet from baseboard heaters.
+If the gateway feels hot to touch, unplug it immediately and let the device cool before plugging it in again.
+T-Mobile 5G Gateway Does Not Start
+If the gateway does not start up, verify the provided power cord is connected to an outlet. If the gateway is connected to an outlet and power still does not start, contact T-Mobile technical support.
+Poor Internet Experience
+If you feel your overall internet experience is poor, try repositioning the gateway; refer to the section ?Manual Setup: Identify An Ideal Location?.
+Forget Your Admin Password?
+If you configure a custom admin password and forget it, use the password reset function found within the T-Mobile Internet mobile app to reset the password to factory default.
+Understanding the LCD
+The gateway?s LCD is located on front of the device. The LCD serves as a dashboard where you can quickly obtain information of the following types:
+? 	Connection ? 	Devices
+? 	Language Settings
+? 	Messages
+Press left or right arrow ( < or > ) on the LCD panel with your finger to move between screens. The position of the illuminated dot on the bottom of the screen indicates where you are in the screen sequence.
+The Connection screen is the first displayed after a successful start up sequence.
+Connection
+
+Like your phone, the gateway displays up to five bars on its Connection screen, indicating signal strength.
+The number of bars you see represents the strength of the gateway?s current connection to the cellular network.
+An X indicates the gateway is not connected to the cellular network.
+Devices
+
+The Devices screen indicates how many devices are currently connected to the gateway. This is true for both wireless and wired devices.
+Messages
+
+These messages come from the T-Mobile network and may provide outage information or other important updates. 
+The Messages screen allows you to view the message contents by pressing < and > to scroll between messages.
+To delete a message:
+1. Press O (OK) on the panel to select VIEW MESSAGES and view unread messages 
+2. Select NEXT and read next message
+
+3. Select DONE when your read all messages
+
+4. Select DELETE to delete a message  
+
+5. When prompted a message of asking you to confirm deletion,  select YES to confirm
+
+Language Settings
+The gateway supports both English and Spanish on its LCD. You may change the language by doing: 1. 	From the Language screen, select CHANGE
+
+2. From the Language screen, choose English or Espa¤ol
+
+3. Press O (OK) on the panel to set the language
+Technical Specifications
+Dimensions191 (H) x 115 (W) x 120 (D) mm Weight w/power adapter1.097 kg 
+2.412 lbsOperating environment0 to 40 oC 
+32 to 104 oFIoT / GPSBluetooth 5.1 
+GPSPower adapterACPower input100 ? 240V, 3A @ DC 15V, 50/60HzTheoretical power consumption45 WWi-Fi connectivity11ax 4x4 2.4G 
+11ax 4x4 5G  
+Seamless roamingSecurityWPA/WPA2/WPA3ButtonsReset (recessed switch) 
+Arrow Keys (Left & Right) 
+Enter (OK)DisplayTFT LCD Non-Touch Panel 
+2.4-Inch 
+240x320 ResolutionMobile Band5G NR: n25, n41, n66, n71 
+4G LTE: B2, B4, B5, B12, B41, B46 (for RX only), B66, B71Physical InterfacesGE LAN (Yellow)  
+SIM Card Socket (4FF Only) 
+USB Type C x 1 (Regular Power Source) 
+USB Type C x 1 (Data and other USB Port Purpose)Terms and Conditions
+t-mobile.com/responsibility/legal/terms-and-conditions
+Privacy Policy
+t-mobile.com/privacy-center/our-practices/privacy-policy
+Customer Support
+24/7 Tech Support Line:  1-844-275-9310
+Metro Support Line: 1-888-8Metro8 
+
+
+T-Mobile 5G Gateway User Guide
+
+
+
+Page 3
+Need help? Visit https://www.t-mobile.com/internethelp  or call T-Mobile customer service at 1-844-275-9310 
+Metro support service at 1-888-8Metro8
+
+
+
+
+
+T-Mobile 5G Gateway User Guide
+
+T-Mobile 5G Gateway User Guide
+
+Page 4
+Need help? Visit https://www.t-mobile.com/internethelp  or call T-Mobile customer service at 1-844-275-9310
+Metro support service at 1-888-8Metro8
+
+Page 3
+Need help? Visit https://www.t-mobile.com/internethelp  or call T-Mobile customer service at 1-844-275-9310 
+Metro support service at 1-888-8Metro8
+
+T-Mobile 5G Gateway User Guide
+
+Page 4
+Need help? Visit https://www.t-mobile.com/internethelp  or call T-Mobile customer service at 1-844-275-9310
+Metro support service at 1-888-8Metro8
+
